@@ -1,0 +1,37 @@
+Hackaton Day 2
+===============
+#IOTenviron
+#hackOVA
+
+hackaton
+Z0Q2
+
+
+
+
+Datový model
+
+Imputs
+- (nastavitelná) četnost měření
+- (nastavitelná) četnost posílání dat
+- (jméno měřené veličiny) : (hodnota) = hlavní část, porovnává se s v modulu Logika
+- časová znčka naměřených dat = pro potřeby historyckých a predikčních časových závislostí
+- unikátní identifikace zařízení = v jedné lokaci jich může být mnoho
+- lokace (GPS)
+Logic = měníme váhu hodnoty naměřené veličiny podle uživatele, stavu v síti senzorů...
+- emegrgency situace mimo naši kontrolu
+    - případ požáru má naprostou přednost
+    - základní nastavení plynoucí z legislativy - nezměnitelné
+  - kdy vyvolat událost na základě vstupů (treshold)
+    - prostá informace poskytovaná senzorem
+    - hodnocení události na základě uživatelského vstupu
+    - hodnocení událostí na základě uživatelských vstupů z celé sítě
+    - predikce plynoucí z korelace událostí ze senzorů či sítě (kombinace rozptylových podmínek a smogové situace)
+    - hystereze regulátoru - jak často můžu z dat měnit řídící outputy směrem k zařízení
+Outputs
+- driver jednotlivých vzduchotechnik - většina je schopná přijmout povel z venku
+- dashboard pro uživatele = aplikace na smarphone
+  - proč se stala událost na vzduchotechnice - prezentace naměřených hodnot: teplota, rozptyl, hodnoty znečištění...
+  - uživatelské hodnocení, zda s automatem souhlasí a kolikrát souhlasil a nesouhlasil
+  - push notifikace
+- sms či jiná push notifikace mimo aplikaci
