@@ -7,7 +7,7 @@ Pracovní git pro projekt senzorické sítě a její platfmy jako pokračování
 
 Prosim pouzivejte formaty MsOffice, nekteri z resitelu bohuzel nepodporuji ty svobodne
 
-repozitar je sice public, ale neni potreba davat link na kzadou stranu, jen tem kdo maji zajem nam pomoct
+repozitar je sice public, ale neni potreba davat link na kazadou stranu, jen tem kdo maji zajem nam pomoct
 
 
 
