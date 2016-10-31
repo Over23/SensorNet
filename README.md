@@ -15,7 +15,7 @@ Dulezite dokumenty:
 ------------------- 
 - TS_grantova_zadost_2016.docx - dokument pro Vodafone, zadost o grant ve formalni podobe
 - grant_naceneni.xlsx - tabulka nakladu, opet smerem k Vodafone
-- grant_zduvodneni_nakladu.odt - vysvetlujici text ke grant_naceneni.* (nevyzadany dokument, ale pujde do Vodafone)
+- grant_zduvodneni_nakladu.docx (.pdf) - vysvetlujici text ke grant_naceneni.* (nevyzadany dokument, ale pujde do Vodafone)
 - TS_Inovacni_zamer.doc - znova oficialni dokument pro Vodafone
 
 
