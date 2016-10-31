@@ -3,11 +3,11 @@ Universal Minicipal Sensoric Network
 ======================
 (uzaverka 31.10.2016, schvalovani 1.11.2016)
 
-Pracovní git pro projekt senzorické sítě a její platfmy jako pokračování Vodafone IoT hackatonu
+Pracovní git pro projekt senzorické sítě a její platformy, jako pokračování Vodafone IoT hackatonu.
 
-Prosim pouzivejte formaty MsOffice, nekteri z resitelu bohuzel nepodporuji ty svobodne
+Prosím používejte formáty MsOffice, někteří z řešitelů bohužel nepodporují ty svobodné.
 
-repozitar je sice public, ale neni potreba davat link na kazadou stranu, jen tem kdo maji zajem nam pomoct
+Repozitář je sice public, ale není potřeba dávat link na každou stranu, jen těm, kdo mají zájem nám pomoci.
 
 
 
