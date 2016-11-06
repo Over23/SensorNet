@@ -2,7 +2,7 @@
 Universal Minicipal Sensoric Network 
 ======================
 (uzaverka 31.10.2016, schvalovani 1.11.2016)
-
+ 
 status: odeslano
 
 Pracovní git pro projekt senzorické sítě a její platformy, jako pokračování Vodafone IoT hackatonu.
