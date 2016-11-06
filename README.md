@@ -11,7 +11,7 @@ Prosím používejte formáty MsOffice, někteří z řešitelů bohužel nepodp
 
 Repozitář je sice public, ale není potřeba dávat link na každou stranu, jen těm, kdo mají zájem nám pomoci.
 
-
+Repo by melo byt propojeno na kanal #Labka na freenode.net
 
 Dulezite dokumenty:
 ------------------- 
